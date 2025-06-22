@@ -1,6 +1,7 @@
 ## Interface: 11404
 ## Title: RestedTracker
 ## Notes: Affiche l'XP de repos des rerolls sur la minimap.
+## Author: Kyrine
 ## Version: 1.0
 ## SavedVariables: RestedTrackerDB, RestedTrackerSettings
 
